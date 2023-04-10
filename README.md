@@ -6,13 +6,15 @@
 
 - 🚧 I’m Current Founder/CEO of **WenPixel™️** ( #1 Mcpe Skyblock Server In India ) 
 
-- 🌱 I’m currently learning **Some Basic JavaScript And C++ 
+- 🌱 I’m currently learning **Some Basic JavaScript And C++**
+
+- 🪴 I'm Also Trained in **Discord.PY** And Owning 3+ Verified Discord Bots!
 
 - 🔭 I’m currently working on **PocketMine-MP**
 
 - 📫 How to reach me? **Reach Me On Discord `Shrèyansh#0001`**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">How to Reach Out To Me?</h3>
 <p align="left">
 <a href="https://twitter.com/dadevguy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dadevguy_" height="30" width="40" /></a>
 <a href="https://instagram.com/masked_ehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="masked_ehan" height="30" width="40" /></a>
