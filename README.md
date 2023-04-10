@@ -1,4 +1,4 @@
-<img align="" alt="GIF" src="https://www.sololearn.com/certificates/course/en/26954431/1059/landscape/png" />
+<img align="" alt="GIF" src="https://images.bannerbear.com/direct/4mGpW3zwrxA1K0AxQw/requests/000/036/280/510/nGPeXKvLJY7Rqa0nQd81p93OM/81f0e9df124eeaaf1bd62775310886a927427008.png" />
 <h1 align="center">Hi 👋, I'm DaDevGuy</h1>
 <h3 align="center">A Self Taught Developer.</h3>
 
