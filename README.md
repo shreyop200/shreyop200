@@ -1,5 +1,4 @@
-
-<h1 align="center"Hey There! 👋, Shreyansh Here</h1>
+<p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+There,+Shreyansh+Here!;A+Self+Taught+PHP+Developer!;Founder/CEO+Of+WenPixel™️;WenPixel™️+India's+Top+1+Mcpe+Server!"></a> </p>
 <h3 align="center">A Self Taught Developer, Learnt Coding Through Social Media!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -19,7 +18,7 @@
 <a href="https://twitter.com/dadevguy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dadevguy_" height="30" width="40" /></a>
 <a href="https://instagram.com/masked_ehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="masked_ehan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/technical ehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technical ehan" height="30" width="40" /></a>
-<a href="https://discord.gg/rbjXSMFBqn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rbjXSMFBqn" height="30" width="40" /></a>
+<a href="https://discord.gg/wenpixel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rbjXSMFBqn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
