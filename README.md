@@ -6,7 +6,7 @@
 
 - 🚧 I’m Current Founder/CEO of **WenPixel™️** ( #1 Mcpe Skyblock Server In India ) 
 
-- 🌱 I’m currently learning **Some JavaScript's Frameworks*
+- 🌱 I’m currently learning **Some Basic JavaScript And C++ 
 
 - 🔭 I’m currently working on **PocketMine-MP**
 
