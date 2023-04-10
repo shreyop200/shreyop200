@@ -1,16 +1,16 @@
-<img align="" alt="GIF" src="https://images.bannerbear.com/direct/4mGpW3zwrxA1K0AxQw/requests/000/036/280/510/nGPeXKvLJY7Rqa0nQd81p93OM/81f0e9df124eeaaf1bd62775310886a927427008.png" />
-<h1 align="center">Hi 👋, I'm DaDevGuy</h1>
-<h3 align="center">A Self Taught Developer.</h3>
+
+<h1 align="center"Hey There! 👋, I'm Shreyansh!</h1>
+<h3 align="center">A Self Taught Developer, Learnt Coding Through Social Media!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **PocketMine-MP**
+- 🚧 I’m Current Founder/CEO of **WenPixel™️** ( #1 Mcpe Skyblock Server In India ) 
 
 - 🌱 I’m currently learning **Some JavaScript's Frameworks*
 
-- 👯 I’m looking to collaborate on **PocketMine-MP**
+- 🔭 I’m currently working on **PocketMine-MP**
 
-- 📫 How to reach me? **Reach Me On Discord `MeoW#0001`**
+- 📫 How to reach me? **Reach Me On Discord `Shrèyansh#0001`**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
